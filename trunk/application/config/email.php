@@ -1,0 +1,10 @@
+<?php 
+$config['email_method']='2';
+$config['email_crypto']='0';
+$config['email_server']='smtp.qq.com';
+$config['email_address']='steven@staff.zylinkus.com';
+$config['email_username']='Steven';
+$config['email_password']='liulizhi';
+$config['email_port']='25';
+$config['email_charset']='1';
+//END
